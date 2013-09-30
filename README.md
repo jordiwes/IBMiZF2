@@ -1,8 +1,9 @@
-IBMiZF2
+Program Call for IBMi
 =======
 
-IBM i modules for ZF2
+Program Call IBM i module for ZF2
 
+Place the "PgmCall" directory in the vendor directory of your ZF2 application.
 
 
 I have set up my application.config like so:
