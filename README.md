@@ -7,7 +7,7 @@ IBM i modules for ZF2
 
 I have set up my application.config like so:
 
-
+```php
 'service_manager' => array(
 		
 	 	'factories'    => array(
@@ -38,12 +38,14 @@ I have set up my application.config like so:
 			}
 	    ),
 	),
-	
+```	
 	
 	
 	
 And I call the program call module like so:
 
+
+```php
 class MyTable
 {
 
@@ -76,4 +78,4 @@ class MyTable
 	}
 	
 }
-  
+```  
